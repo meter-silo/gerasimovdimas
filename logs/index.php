@@ -16,3 +16,4 @@ Pull Request Database Cloud Functions Stay hungry, stay foolish. Success is how 
 Server Response The only way to do great work is to love what you do. Kafka Version Control Monitoring OAuth Testing Neural Networks GraphQL If you can dream it, you can do it. Big Data UX Optimization Database Performance
 Load Testing Machine Learning Testing Kafka Event-driven Architecture Framework A/B Testing Act as if what you do makes a difference. It does. Artificial Intelligence Python Database Indexing
 Algorithm CI/CD Automation Monitoring Load Testing Framework Don't be afraid to give up the good to go for the great. Scalability Cloud JWT
+Security Load Testing Content Delivery Network IoT JWT Edge Computing API Replica Set Sharding Big Data The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. CI/CD Version Control
