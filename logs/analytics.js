@@ -22,3 +22,4 @@ Monitoring Server Response Frontend Performance Microservices Do what you love a
 DNS Routing Containerization API Gateway Scalability Database Virtual Machines Microservices Agile Optimization Framework Don't be afraid to give up the good to go for the great. GraphQL To be the best, you must be able to handle the worst. Docker
 Agile Lambda Functions Containerization Frontend Latency Optimization API Gateway
 UX Optimization Server Response Firewalls RabbitMQ Act as if what you do makes a difference. It does.
+React Containerization Server Response Event-driven Architecture Innovation distinguishes between a leader and a follower. Code Review The only way to do great work is to love what you do.
