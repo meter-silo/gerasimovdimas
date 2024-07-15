@@ -13,3 +13,4 @@ Security IoT Event Sourcing Do what you love and the money will follow. Logging 
 Difficult roads often lead to beautiful destinations. Agile UX Optimization RabbitMQ Cache Invalidation Frontend The only way to do great work is to love what you do. Data Science Scalability Monitoring
 Event-driven Architecture UX Optimization Simplicity is the ultimate sophistication. Performance Testing Don't be afraid to give up the good to go for the great. React Deployment
 Cloud Stay hungry, stay foolish. Blockchain Dream big and dare to fail. Lambda Functions Data Science Backend Kafka DevOps NLP Opportunities don't happen. You create them.
+CI/CD Cloud Functions Event Sourcing Stay hungry, stay foolish. Database React Dream big and dare to fail. The only way to do great work is to love what you do. Load Testing Deployment DNS Routing A/B Testing Firewalls Distributed Systems
