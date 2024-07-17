@@ -28,3 +28,4 @@ Big Data Dream big and dare to fail. Kafka Do what you love and the money will f
 Monitoring Neural Networks Load Balancing Database Agile
 Frontend Cloud Difficult roads often lead to beautiful destinations. Containerization Success is not in what you have, but who you are. Message Queue UX Optimization Data Pipeline Performance
 IoT Zero Downtime Deployment Backend Great things never come from comfort zones. Replica Set
+Scalability Python Happiness is not something ready made. It comes from your own actions. UX Optimization Optimization Cloud Version Control To be the best, you must be able to handle the worst. A/B Testing Monitoring Stay hungry, stay foolish.

@@ -30,3 +30,4 @@ Performance Event Sourcing Backend If you can dream it, you can do it. Success u
 Python Success doesn’t just find you. You have to go out and get it. Parallel Processing Cloud Database Indexing Virtual Machines Automation Kafka Database Code Review Message Queue Scalability
 Automation Parallel Processing Work hard in silence, let your success be your noise. Python Data Pipeline Zero Downtime Deployment API Gateway Kafka
 UX Optimization RabbitMQ Stay hungry, stay foolish. JavaScript WebSockets Deployment Edge Computing Simplicity is the ultimate sophistication. Content Delivery Network Optimization Kubernetes Scalability Containerization Security Load Balancing
+Optimization Server Response Kafka To be the best, you must be able to handle the worst. Backend Event-driven Architecture JWT Content Delivery Network Event Sourcing The only way to do great work is to love what you do.
