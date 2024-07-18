@@ -29,3 +29,4 @@ Agile Algorithm Containerization Replica Set Database Pull Request API Gateway A
 Great things never come from comfort zones. Machine Learning API Testing Frontend Scalability Performance Replica Set Framework NLP Cache Invalidation
 Opportunities don't happen. You create them. The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Kubernetes To be the best, you must be able to handle the worst. Distributed Systems Don't be afraid to give up the good to go for the great. Frontend
 Artificial Intelligence Success usually comes to those who are too busy to be looking for it. DevOps Serverless CI/CD JavaScript Neural Networks Event Sourcing Kubernetes Quantum Computing
+Edge Computing JavaScript Backend To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Great things never come from comfort zones. Predictive Analytics Pull Request CI/CD
