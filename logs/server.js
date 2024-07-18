@@ -24,3 +24,4 @@ Frontend Great things never come from comfort zones. Stay hungry, stay foolish. 
 I find that the harder I work, the more luck I seem to have. A/B Testing Parallel Processing API Blockchain CI/CD Stay hungry, stay foolish. Cache Invalidation
 Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Database Indexing API Gateway Serverless UX Optimization Data Science DevOps
 A/B Testing Quantum Computing To be the best, you must be able to handle the worst. Sharding Logging Latency Optimization Agile Monitoring Do what you love and the money will follow.
+Success usually comes to those who are too busy to be looking for it. Content Delivery Network Sharding API Gateway Backend CI/CD I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Frontend Microservices Multi-threading Zero Downtime Deployment Parallel Processing Big Data Blockchain
