@@ -27,3 +27,4 @@ Kafka Cloud Functions JavaScript I find that the harder I work, the more luck I 
 Big Data Dream big and dare to fail. Kafka Do what you love and the money will follow. Load Testing
 Monitoring Neural Networks Load Balancing Database Agile
 Frontend Cloud Difficult roads often lead to beautiful destinations. Containerization Success is not in what you have, but who you are. Message Queue UX Optimization Data Pipeline Performance
+IoT Zero Downtime Deployment Backend Great things never come from comfort zones. Replica Set
