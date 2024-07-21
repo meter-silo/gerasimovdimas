@@ -18,3 +18,4 @@ Automation Success doesn’t just find you. You have to go out and get it. Act as 
 Security Artificial Intelligence Load Balancing Opportunities don't happen. You create them. API Python Pull Request To be the best, you must be able to handle the worst. Scalability Great things never come from comfort zones. Dream big and dare to fail. Logging
 Cloud Parallel Processing Blockchain Cloud Functions Sharding CI/CD Testing
 Automation Cloud Functions Kafka Backend Docker
+Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. JWT
