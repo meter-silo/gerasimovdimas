@@ -10,3 +10,4 @@ RabbitMQ Python Automation GraphQL Happiness is not something ready made. It com
 Pull Request React Cloud Functions Blockchain Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Testing RabbitMQ Simplicity is the ultimate sophistication. Logging Scalability Cloud DNS Routing Distributed Systems Backend
 Replica Set Load Balancing Data Pipeline Database GraphQL Testing Server Response Framework Content Delivery Network I find that the harder I work, the more luck I seem to have. Firewalls Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Optimization
 UX Optimization GraphQL Docker Security Cache Invalidation
+Deployment Latency Optimization Great things never come from comfort zones. Container Orchestration Act as if what you do makes a difference. It does. WebSockets Big Data Kubernetes
