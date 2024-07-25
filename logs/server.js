@@ -23,3 +23,4 @@ Work hard in silence, let your success be your noise. Kafka Difficult roads ofte
 Frontend Great things never come from comfort zones. Stay hungry, stay foolish. Algorithm Parallel Processing DNS Routing Code Review Deployment I find that the harder I work, the more luck I seem to have. Latency Optimization Zero Downtime Deployment Artificial Intelligence Cloud Functions
 I find that the harder I work, the more luck I seem to have. A/B Testing Parallel Processing API Blockchain CI/CD Stay hungry, stay foolish. Cache Invalidation
 Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Database Indexing API Gateway Serverless UX Optimization Data Science DevOps
+A/B Testing Quantum Computing To be the best, you must be able to handle the worst. Sharding Logging Latency Optimization Agile Monitoring Do what you love and the money will follow.
