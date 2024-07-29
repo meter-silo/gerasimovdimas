@@ -17,3 +17,4 @@ Automation Latency Optimization RabbitMQ Cloud Functions Success doesn’t just fi
 Work hard in silence, let your success be your noise. Load Testing If you can dream it, you can do it. Performance Docker
 GraphQL Data Science Scalability Don't be afraid to give up the good to go for the great. Monitoring
 Kafka Backend Dream big and dare to fail. Security DNS Routing Serverless Frontend Parallel Processing Testing Container Orchestration Do what you love and the money will follow.
+Latency Optimization Containerization To be the best, you must be able to handle the worst. Python Edge Computing NLP GraphQL DevOps OAuth Kafka IoT Testing
