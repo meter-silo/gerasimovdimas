@@ -26,3 +26,4 @@ Lambda Functions OAuth A/B Testing Act as if what you do makes a difference. It 
 Do what you love and the money will follow. Sharding Docker Version Control Microservices React Lambda Functions Server Response Algorithm Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Data Science
 Serverless Server Response Predictive Analytics Logging Machine Learning Lambda Functions Success usually comes to those who are too busy to be looking for it. Framework
 Agile Algorithm Containerization Replica Set Database Pull Request API Gateway A/B Testing Success is not in what you have, but who you are. Quantum Computing Predictive Analytics Database Indexing Serverless Act as if what you do makes a difference. It does.
+Great things never come from comfort zones. Machine Learning API Testing Frontend Scalability Performance Replica Set Framework NLP Cache Invalidation
