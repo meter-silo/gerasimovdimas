@@ -16,3 +16,4 @@ Microservices Code Review Database Data Pipeline Parallel Processing CI/CD Rabbi
 Database Indexing Deployment Act as if what you do makes a difference. It does. Automation IoT Zero Downtime Deployment
 Automation Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Data Pipeline Cloud Functions Event-driven Architecture OAuth Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Cloud Replica Set
 Security Artificial Intelligence Load Balancing Opportunities don't happen. You create them. API Python Pull Request To be the best, you must be able to handle the worst. Scalability Great things never come from comfort zones. Dream big and dare to fail. Logging
+Cloud Parallel Processing Blockchain Cloud Functions Sharding CI/CD Testing

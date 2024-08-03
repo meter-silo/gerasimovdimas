@@ -15,3 +15,4 @@ Python Success is not in what you have, but who you are. Security Container Orch
 Distributed Systems Neural Networks JavaScript Success is not in what you have, but who you are. Lambda Functions Security Great things never come from comfort zones. Sharding Frontend Success is how high you bounce when you hit bottom.
 Logging Zero Downtime Deployment A/B Testing Act as if what you do makes a difference. It does. Cloud Functions
 GraphQL Machine Learning Deployment Latency Optimization Algorithm Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Logging API
+Predictive Analytics Parallel Processing Success is not in what you have, but who you are. Serverless Firewalls Simplicity is the ultimate sophistication.
