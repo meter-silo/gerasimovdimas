@@ -18,3 +18,4 @@ Happiness is not something ready made. It comes from your own actions. Virtual M
 React Monitoring Great things never come from comfort zones. Cloud Functions Success doesn’t just find you. You have to go out and get it. Distributed Systems Algorithm Load Balancing Firewalls Database Indexing Machine Learning Database
 Scalability IoT Lambda Functions Performance Firewalls Success doesn’t just find you. You have to go out and get it. Deployment UX Optimization
 Neural Networks Blockchain Content Delivery Network Data Science Event-driven Architecture Cloud Functions Serverless Parallel Processing
+Monitoring Server Response Frontend Performance Microservices Do what you love and the money will follow. DevOps JavaScript Latency Optimization Cloud Docker Message Queue
