@@ -14,3 +14,4 @@ Agile Predictive Analytics Sharding Logging Database Indexing Event-driven Archi
 Load Testing Success doesn’t just find you. You have to go out and get it. UX Optimization Content Delivery Network Machine Learning Testing
 Pull Request Database Cloud Functions Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Data Science
 Server Response The only way to do great work is to love what you do. Kafka Version Control Monitoring OAuth Testing Neural Networks GraphQL If you can dream it, you can do it. Big Data UX Optimization Database Performance
+Load Testing Machine Learning Testing Kafka Event-driven Architecture Framework A/B Testing Act as if what you do makes a difference. It does. Artificial Intelligence Python Database Indexing
