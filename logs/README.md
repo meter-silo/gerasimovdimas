@@ -24,3 +24,4 @@ Event-driven Architecture Load Testing Code Review Scalability Stay hungry, stay
 JavaScript I find that the harder I work, the more luck I seem to have. Data Science Backend Innovation distinguishes between a leader and a follower. Message Queue Firewalls API Logging Server Response
 Lambda Functions OAuth A/B Testing Act as if what you do makes a difference. It does. Deployment Distributed Systems Opportunities don't happen. You create them. Backend DevOps Edge Computing Neural Networks Machine Learning Event Sourcing
 Do what you love and the money will follow. Sharding Docker Version Control Microservices React Lambda Functions Server Response Algorithm Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Data Science
+Serverless Server Response Predictive Analytics Logging Machine Learning Lambda Functions Success usually comes to those who are too busy to be looking for it. Framework
