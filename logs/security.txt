@@ -24,3 +24,4 @@ Blockchain Replica Set Big Data Database Do what you love and the money will fol
 Microservices Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Event Sourcing RabbitMQ Replica Set Big Data Frontend CI/CD Virtual Machines A/B Testing
 API Gateway I find that the harder I work, the more luck I seem to have. Neural Networks Database Indexing Version Control Difficult roads often lead to beautiful destinations. Lambda Functions Database Replica Set DNS Routing Parallel Processing GraphQL RabbitMQ OAuth
 Cloud Firewalls If you can dream it, you can do it. Machine Learning DevOps Cloud Functions Message Queue UX Optimization Containerization Data Pipeline
+Multi-threading Virtual Machines Simplicity is the ultimate sophistication. JavaScript Data Science Success usually comes to those who are too busy to be looking for it.
