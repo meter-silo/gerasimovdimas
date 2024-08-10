@@ -18,3 +18,4 @@ Neural Networks Performance Testing Stay hungry, stay foolish. Code Review
 Container Orchestration Frontend Event Sourcing Optimization Sharding Blockchain Monitoring Event-driven Architecture I find that the harder I work, the more luck I seem to have. Deployment A/B Testing Automation JWT
 Neural Networks Innovation distinguishes between a leader and a follower. Version Control Backend Cloud Functions A/B Testing Database Indexing Stay hungry, stay foolish. Load Testing
 CI/CD Sharding Microservices Firewalls Container Orchestration Happiness is not something ready made. It comes from your own actions. NLP Logging Serverless Load Testing
+Server Response Optimization IoT Agile Cloud Functions Latency Optimization Lambda Functions Zero Downtime Deployment Success is how high you bounce when you hit bottom. Deployment To be the best, you must be able to handle the worst. Security JavaScript
