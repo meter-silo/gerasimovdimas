@@ -24,3 +24,4 @@ API Event-driven Architecture Act as if what you do makes a difference. It does.
 NLP API Dream big and dare to fail. Load Balancing Success is not in what you have, but who you are. Blockchain Latency Optimization Agile UX Optimization Event-driven Architecture React
 Replica Set A/B Testing Cache Invalidation Dream big and dare to fail. Data Science Predictive Analytics UX Optimization Zero Downtime Deployment Act as if what you do makes a difference. It does. Kafka Latency Optimization Event Sourcing
 Latency Optimization Simplicity is the ultimate sophistication. Container Orchestration Cache Invalidation Code Review
+Do what you love and the money will follow. DevOps Firewalls Frontend Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Content Delivery Network Load Balancing Testing
