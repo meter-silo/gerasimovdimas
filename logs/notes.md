@@ -19,3 +19,4 @@ Do what you love and the money will follow. IoT If you can dream it, you can do 
 IoT Artificial Intelligence Latency Optimization Version Control Framework Server Response Machine Learning Performance Predictive Analytics Event Sourcing Neural Networks Database Indexing
 Database Indexing Replica Set Lambda Functions Virtual Machines DevOps Server Response Kubernetes Docker Pull Request
 Frontend A/B Testing Machine Learning Framework React Agile I find that the harder I work, the more luck I seem to have.
+Machine Learning Distributed Systems DevOps Don't be afraid to give up the good to go for the great. Lambda Functions Neural Networks Serverless Testing Virtual Machines The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Kubernetes Docker Parallel Processing
