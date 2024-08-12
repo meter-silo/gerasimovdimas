@@ -22,3 +22,4 @@ Cache Invalidation Version Control Work hard in silence, let your success be you
 Containerization Dream big and dare to fail. OAuth The only way to do great work is to love what you do. Serverless Performance Event-driven Architecture Microservices Framework
 Blockchain Replica Set Big Data Database Do what you love and the money will follow. Sharding Predictive Analytics Opportunities don't happen. You create them. Load Testing OAuth IoT Distributed Systems
 Microservices Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Event Sourcing RabbitMQ Replica Set Big Data Frontend CI/CD Virtual Machines A/B Testing
+API Gateway I find that the harder I work, the more luck I seem to have. Neural Networks Database Indexing Version Control Difficult roads often lead to beautiful destinations. Lambda Functions Database Replica Set DNS Routing Parallel Processing GraphQL RabbitMQ OAuth
