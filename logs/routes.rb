@@ -23,3 +23,4 @@ CI/CD Opportunities don't happen. You create them. Data Science Server Response 
 API Event-driven Architecture Act as if what you do makes a difference. It does. Docker Quantum Computing I find that the harder I work, the more luck I seem to have. Python Server Response Kafka Virtual Machines
 NLP API Dream big and dare to fail. Load Balancing Success is not in what you have, but who you are. Blockchain Latency Optimization Agile UX Optimization Event-driven Architecture React
 Replica Set A/B Testing Cache Invalidation Dream big and dare to fail. Data Science Predictive Analytics UX Optimization Zero Downtime Deployment Act as if what you do makes a difference. It does. Kafka Latency Optimization Event Sourcing
+Latency Optimization Simplicity is the ultimate sophistication. Container Orchestration Cache Invalidation Code Review
