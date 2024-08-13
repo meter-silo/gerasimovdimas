@@ -16,3 +16,4 @@ Kafka Pull Request React Message Queue Great things never come from comfort zone
 Virtual Machines Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Algorithm Act as if what you do makes a difference. It does. Container Orchestration Success doesn’t just find you. You have to go out and get it. Distributed Systems Stay hungry, stay foolish.
 Neural Networks Performance Testing Stay hungry, stay foolish. Code Review
 Container Orchestration Frontend Event Sourcing Optimization Sharding Blockchain Monitoring Event-driven Architecture I find that the harder I work, the more luck I seem to have. Deployment A/B Testing Automation JWT
+Neural Networks Innovation distinguishes between a leader and a follower. Version Control Backend Cloud Functions A/B Testing Database Indexing Stay hungry, stay foolish. Load Testing
