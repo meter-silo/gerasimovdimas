@@ -11,3 +11,4 @@ Algorithm Backend Serverless Happiness is not something ready made. It comes fro
 Load Balancing Stay hungry, stay foolish. Data Pipeline Framework RabbitMQ Pull Request Data Science Container Orchestration WebSockets Version Control Parallel Processing Security Do what you love and the money will follow. Zero Downtime Deployment UX Optimization
 Blockchain Latency Optimization IoT Cloud DevOps DNS Routing Sharding Serverless
 Agile Predictive Analytics Sharding Logging Database Indexing Event-driven Architecture OAuth Data Science Load Testing Pull Request GraphQL Neural Networks
+Load Testing Success doesn’t just find you. You have to go out and get it. UX Optimization Content Delivery Network Machine Learning Testing
