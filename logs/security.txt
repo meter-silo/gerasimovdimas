@@ -21,3 +21,4 @@ WebSockets Success is how high you bounce when you hit bottom. Work hard in sile
 Cache Invalidation Version Control Work hard in silence, let your success be your noise. Event Sourcing UX Optimization Load Balancing Virtual Machines Cloud Parallel Processing DNS Routing
 Containerization Dream big and dare to fail. OAuth The only way to do great work is to love what you do. Serverless Performance Event-driven Architecture Microservices Framework
 Blockchain Replica Set Big Data Database Do what you love and the money will follow. Sharding Predictive Analytics Opportunities don't happen. You create them. Load Testing OAuth IoT Distributed Systems
+Microservices Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Event Sourcing RabbitMQ Replica Set Big Data Frontend CI/CD Virtual Machines A/B Testing
