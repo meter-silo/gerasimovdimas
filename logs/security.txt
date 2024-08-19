@@ -20,3 +20,4 @@ JWT Logging Event-driven Architecture Innovation distinguishes between a leader 
 WebSockets Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Backend The only way to do great work is to love what you do. Sharding Code Review Data Science Event-driven Architecture Great things never come from comfort zones. Frontend
 Cache Invalidation Version Control Work hard in silence, let your success be your noise. Event Sourcing UX Optimization Load Balancing Virtual Machines Cloud Parallel Processing DNS Routing
 Containerization Dream big and dare to fail. OAuth The only way to do great work is to love what you do. Serverless Performance Event-driven Architecture Microservices Framework
+Blockchain Replica Set Big Data Database Do what you love and the money will follow. Sharding Predictive Analytics Opportunities don't happen. You create them. Load Testing OAuth IoT Distributed Systems

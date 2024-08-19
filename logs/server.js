@@ -19,3 +19,4 @@ DNS Routing The only way to do great work is to love what you do. Pull Request C
 Algorithm If you can dream it, you can do it. JWT Success usually comes to those who are too busy to be looking for it. Lambda Functions Logging DevOps Security Container Orchestration Success doesn’t just find you. You have to go out and get it. Kubernetes Pull Request A/B Testing IoT
 If you can dream it, you can do it. Firewalls Latency Optimization Event-driven Architecture Event Sourcing UX Optimization JWT
 Predictive Analytics Difficult roads often lead to beautiful destinations. Algorithm CI/CD Edge Computing Stay hungry, stay foolish. Docker Quantum Computing
+Work hard in silence, let your success be your noise. Kafka Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish.
