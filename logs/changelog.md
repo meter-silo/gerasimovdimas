@@ -24,3 +24,4 @@ IoT Kafka Optimization Blockchain Framework Version Control Success usually come
 Neural Networks Message Queue Container Orchestration Content Delivery Network Success is not in what you have, but who you are. Replica Set Sharding Machine Learning DevOps Deployment OAuth Event Sourcing
 Virtual Machines Data Science Automation GraphQL Difficult roads often lead to beautiful destinations. Multi-threading Backend
 Containerization UX Optimization DNS Routing Great things never come from comfort zones. React Cache Invalidation Server Response Scalability
+Algorithm Kafka Scalability WebSockets Stay hungry, stay foolish. OAuth NLP Load Balancing React Great things never come from comfort zones. Content Delivery Network
