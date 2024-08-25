@@ -13,3 +13,4 @@ Code Review JavaScript Logging If you can dream it, you can do it. Monitoring Ba
 Machine Learning Logging Container Orchestration IoT Cloud Stay hungry, stay foolish.
 Don't be afraid to give up the good to go for the great. Optimization Security Cloud Functions Firewalls Monitoring Virtual Machines Do what you love and the money will follow. Load Balancing
 Distributed Systems Simplicity is the ultimate sophistication. Data Science Deployment Do what you love and the money will follow. DNS Routing Monitoring Performance Event Sourcing To be the best, you must be able to handle the worst. Database Indexing Stay hungry, stay foolish. Predictive Analytics
+Artificial Intelligence Difficult roads often lead to beautiful destinations. Load Balancing Cloud DevOps Performance RabbitMQ IoT Firewalls Simplicity is the ultimate sophistication.

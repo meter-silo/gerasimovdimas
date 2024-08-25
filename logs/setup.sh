@@ -14,3 +14,4 @@ Event-driven Architecture Monitoring Testing Containerization API If you can dre
 Performance GraphQL Container Orchestration Kubernetes IoT Parallel Processing CI/CD Edge Computing
 Framework Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Cloud Functions The only way to do great work is to love what you do. Pull Request
 RabbitMQ Latency Optimization Database OAuth Do what you love and the money will follow. Replica Set Work hard in silence, let your success be your noise. Virtual Machines Don't be afraid to give up the good to go for the great.
+Kafka Logging Serverless Event Sourcing Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. Data Science Success doesn’t just find you. You have to go out and get it. Cache Invalidation DevOps Load Testing Cloud Do what you love and the money will follow. Data Pipeline
