@@ -18,3 +18,4 @@ JWT Firewalls Innovation distinguishes between a leader and a follower. Data Pip
 Do what you love and the money will follow. IoT If you can dream it, you can do it. RabbitMQ Event Sourcing Innovation distinguishes between a leader and a follower. Blockchain Virtual Machines Database Testing
 IoT Artificial Intelligence Latency Optimization Version Control Framework Server Response Machine Learning Performance Predictive Analytics Event Sourcing Neural Networks Database Indexing
 Database Indexing Replica Set Lambda Functions Virtual Machines DevOps Server Response Kubernetes Docker Pull Request
+Frontend A/B Testing Machine Learning Framework React Agile I find that the harder I work, the more luck I seem to have.

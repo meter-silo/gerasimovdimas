@@ -12,3 +12,4 @@ Work hard in silence, let your success be your noise. A/B Testing Kubernetes The
 Serverless Kafka Success usually comes to those who are too busy to be looking for it. Replica Set GraphQL
 Cloud Functions API Microservices Agile Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Monitoring DNS Routing Big Data Difficult roads often lead to beautiful destinations.
 Server Response Version Control Performance Cache Invalidation Simplicity is the ultimate sophistication. Scalability Predictive Analytics Serverless Edge Computing Zero Downtime Deployment Security Load Balancing
+Microservices Code Review Database Data Pipeline Parallel Processing CI/CD RabbitMQ Dream big and dare to fail. The only way to do great work is to love what you do. Load Balancing React Message Queue Container Orchestration Success is not in what you have, but who you are. Pull Request
