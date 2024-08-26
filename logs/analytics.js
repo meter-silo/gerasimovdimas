@@ -14,3 +14,4 @@ Edge Computing Microservices NLP Virtual Machines Content Delivery Network Versi
 Containerization API UX Optimization Kafka Data Pipeline Performance
 GraphQL Container Orchestration Docker Edge Computing Event Sourcing Distributed Systems UX Optimization WebSockets Message Queue
 Testing The only way to do great work is to love what you do. Cloud Functions Blockchain Docker If you can dream it, you can do it. Sharding Data Science Big Data Stay hungry, stay foolish. API Virtual Machines
+Happiness is not something ready made. It comes from your own actions. Virtual Machines DevOps GraphQL Act as if what you do makes a difference. It does. Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it.
