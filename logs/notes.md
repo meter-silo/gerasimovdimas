@@ -17,3 +17,4 @@ OAuth Big Data Success is not in what you have, but who you are. Docker DNS Rout
 JWT Firewalls Innovation distinguishes between a leader and a follower. Data Pipeline I find that the harder I work, the more luck I seem to have. IoT Pull Request Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication.
 Do what you love and the money will follow. IoT If you can dream it, you can do it. RabbitMQ Event Sourcing Innovation distinguishes between a leader and a follower. Blockchain Virtual Machines Database Testing
 IoT Artificial Intelligence Latency Optimization Version Control Framework Server Response Machine Learning Performance Predictive Analytics Event Sourcing Neural Networks Database Indexing
+Database Indexing Replica Set Lambda Functions Virtual Machines DevOps Server Response Kubernetes Docker Pull Request
