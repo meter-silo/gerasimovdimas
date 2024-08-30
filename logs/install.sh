@@ -14,3 +14,4 @@ DevOps A/B Testing Kubernetes Neural Networks Testing Cloud Functions Opportunit
 Agile Event Sourcing WebSockets Machine Learning Don't be afraid to give up the good to go for the great.
 Kafka Pull Request React Message Queue Great things never come from comfort zones. Performance Cloud Deployment Work hard in silence, let your success be your noise. Logging
 Virtual Machines Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Algorithm Act as if what you do makes a difference. It does. Container Orchestration Success doesn’t just find you. You have to go out and get it. Distributed Systems Stay hungry, stay foolish.
+Neural Networks Performance Testing Stay hungry, stay foolish. Code Review
