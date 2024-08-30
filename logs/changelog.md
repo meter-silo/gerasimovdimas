@@ -22,3 +22,4 @@ Great things never come from comfort zones. WebSockets DevOps Neural Networks Th
 Event-driven Architecture Database Load Testing UX Optimization To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. RabbitMQ Dream big and dare to fail. Virtual Machines Blockchain Performance Server Response Predictive Analytics Lambda Functions
 IoT Kafka Optimization Blockchain Framework Version Control Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Kubernetes
 Neural Networks Message Queue Container Orchestration Content Delivery Network Success is not in what you have, but who you are. Replica Set Sharding Machine Learning DevOps Deployment OAuth Event Sourcing
+Virtual Machines Data Science Automation GraphQL Difficult roads often lead to beautiful destinations. Multi-threading Backend

@@ -18,3 +18,4 @@ Firewalls Version Control Success usually comes to those who are too busy to be 
 Backend Big Data Innovation distinguishes between a leader and a follower. NLP Serverless Artificial Intelligence Container Orchestration DNS Routing Kubernetes Monitoring API Gateway JavaScript
 DNS Routing Opportunities don't happen. You create them. Latency Optimization Algorithm Automation Success is not in what you have, but who you are.
 Code Review To be the best, you must be able to handle the worst. Optimization Serverless Parallel Processing Kubernetes DevOps Pull Request Big Data Artificial Intelligence Cloud Functions
+Parallel Processing Act as if what you do makes a difference. It does. Do what you love and the money will follow. Sharding Content Delivery Network Security Machine Learning
