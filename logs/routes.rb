@@ -19,3 +19,4 @@ Logging I find that the harder I work, the more luck I seem to have. Agile Great
 IoT Container Orchestration Opportunities don't happen. You create them. Great things never come from comfort zones. Work hard in silence, let your success be your noise. Big Data Quantum Computing Code Review Load Testing UX Optimization Python
 Innovation distinguishes between a leader and a follower. Automation UX Optimization Load Testing GraphQL A/B Testing Scalability CI/CD Docker Predictive Analytics Great things never come from comfort zones. DNS Routing
 Monitoring Kubernetes Success doesn’t just find you. You have to go out and get it. CI/CD Frontend Database Indexing
+CI/CD Opportunities don't happen. You create them. Data Science Server Response Lambda Functions Success usually comes to those who are too busy to be looking for it. Performance Blockchain DevOps Security Optimization Neural Networks JWT Sharding The only way to do great work is to love what you do.
