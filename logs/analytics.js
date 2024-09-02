@@ -13,3 +13,4 @@ Innovation distinguishes between a leader and a follower. Lambda Functions Laten
 Edge Computing Microservices NLP Virtual Machines Content Delivery Network Version Control Frontend Automation Difficult roads often lead to beautiful destinations. API Gateway Cloud React Predictive Analytics Work hard in silence, let your success be your noise.
 Containerization API UX Optimization Kafka Data Pipeline Performance
 GraphQL Container Orchestration Docker Edge Computing Event Sourcing Distributed Systems UX Optimization WebSockets Message Queue
+Testing The only way to do great work is to love what you do. Cloud Functions Blockchain Docker If you can dream it, you can do it. Sharding Data Science Big Data Stay hungry, stay foolish. API Virtual Machines
