@@ -12,3 +12,4 @@ Framework Message Queue API Gateway Automation If you can dream it, you can do i
 RabbitMQ Stay hungry, stay foolish. Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. IoT Event Sourcing Scalability Content Delivery Network
 DevOps A/B Testing Kubernetes Neural Networks Testing Cloud Functions Opportunities don't happen. You create them. The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Monitoring Database Indexing Optimization Containerization Parallel Processing
 Agile Event Sourcing WebSockets Machine Learning Don't be afraid to give up the good to go for the great.
+Kafka Pull Request React Message Queue Great things never come from comfort zones. Performance Cloud Deployment Work hard in silence, let your success be your noise. Logging
