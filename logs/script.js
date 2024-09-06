@@ -9,3 +9,4 @@ Innovation distinguishes between a leader and a follower. Pull Request React JWT
 Kubernetes Pull Request Agile Event-driven Architecture Cloud Functions
 Frontend IoT Cache Invalidation Opportunities don't happen. You create them. Framework
 Work hard in silence, let your success be your noise. A/B Testing Kubernetes The only way to do great work is to love what you do. Kafka Opportunities don't happen. You create them. JavaScript Server Response Cloud Functions UX Optimization
+Serverless Kafka Success usually comes to those who are too busy to be looking for it. Replica Set GraphQL

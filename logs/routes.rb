@@ -18,3 +18,4 @@ Sharding Opportunities don't happen. You create them. Great things never come fr
 Logging I find that the harder I work, the more luck I seem to have. Agile Great things never come from comfort zones. Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Big Data If you can dream it, you can do it. WebSockets UX Optimization Serverless
 IoT Container Orchestration Opportunities don't happen. You create them. Great things never come from comfort zones. Work hard in silence, let your success be your noise. Big Data Quantum Computing Code Review Load Testing UX Optimization Python
 Innovation distinguishes between a leader and a follower. Automation UX Optimization Load Testing GraphQL A/B Testing Scalability CI/CD Docker Predictive Analytics Great things never come from comfort zones. DNS Routing
+Monitoring Kubernetes Success doesn’t just find you. You have to go out and get it. CI/CD Frontend Database Indexing
