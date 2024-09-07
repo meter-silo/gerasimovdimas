@@ -16,3 +16,4 @@ Microservices WebSockets Success usually comes to those who are too busy to be l
 Automation Latency Optimization RabbitMQ Cloud Functions Success doesn’t just find you. You have to go out and get it. Event Sourcing To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Quantum Computing Load Testing Neural Networks OAuth
 Work hard in silence, let your success be your noise. Load Testing If you can dream it, you can do it. Performance Docker
 GraphQL Data Science Scalability Don't be afraid to give up the good to go for the great. Monitoring
+Kafka Backend Dream big and dare to fail. Security DNS Routing Serverless Frontend Parallel Processing Testing Container Orchestration Do what you love and the money will follow.
