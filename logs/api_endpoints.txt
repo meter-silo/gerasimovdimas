@@ -13,3 +13,4 @@ Kafka Agile Database Indexing Do what you love and the money will follow. Cloud 
 API Gateway Containerization Don't be afraid to give up the good to go for the great. Replica Set Blockchain NLP Monitoring React Load Testing CI/CD Security Simplicity is the ultimate sophistication. Quantum Computing Event-driven Architecture
 Python Success is not in what you have, but who you are. Security Container Orchestration The only way to do great work is to love what you do. Multi-threading Backend Message Queue Deployment Optimization
 Distributed Systems Neural Networks JavaScript Success is not in what you have, but who you are. Lambda Functions Security Great things never come from comfort zones. Sharding Frontend Success is how high you bounce when you hit bottom.
+Logging Zero Downtime Deployment A/B Testing Act as if what you do makes a difference. It does. Cloud Functions
