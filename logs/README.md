@@ -14,3 +14,4 @@ Difficult roads often lead to beautiful destinations. Success is not in what you
 Big Data Difficult roads often lead to beautiful destinations. Performance Automation Server Response Success usually comes to those who are too busy to be looking for it. Serverless
 IoT Data Pipeline Load Balancing OAuth Event Sourcing GraphQL A/B Testing Lambda Functions Replica Set Cache Invalidation Big Data WebSockets API Gateway Docker Sharding
 UX Optimization Serverless Neural Networks Server Response Stay hungry, stay foolish. Python API Gateway Replica Set Docker Container Orchestration
+Latency Optimization Agile Multi-threading Docker Microservices Work hard in silence, let your success be your noise. Firewalls Backend
