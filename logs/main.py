@@ -6,3 +6,4 @@ Database Virtual Machines Container Orchestration Success is not in what you hav
 Algorithm Machine Learning API Gateway Big Data Monitoring WebSockets RabbitMQ Backend
 Stay hungry, stay foolish. Container Orchestration React Testing Database Indexing Success is how high you bounce when you hit bottom. Code Review CI/CD Multi-threading OAuth Performance The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. GraphQL
 Event-driven Architecture DNS Routing Security Dream big and dare to fail. Difficult roads often lead to beautiful destinations. API Success is not in what you have, but who you are. Database Agile Message Queue To be the best, you must be able to handle the worst. Server Response API Gateway
+RabbitMQ Python Automation GraphQL Happiness is not something ready made. It comes from your own actions. Edge Computing Algorithm If you can dream it, you can do it. Virtual Machines
