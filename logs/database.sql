@@ -6,3 +6,4 @@ Container Orchestration Artificial Intelligence Event-driven Architecture React 
 Testing Python Framework Optimization Backend Serverless Database Indexing Latency Optimization Dream big and dare to fail. Automation
 React Load Testing Success doesn’t just find you. You have to go out and get it. Neural Networks UX Optimization
 RabbitMQ JavaScript Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Monitoring Blockchain Microservices DevOps Database
+Optimization Kubernetes Pull Request Frontend Predictive Analytics The only way to do great work is to love what you do. Content Delivery Network CI/CD Don't be afraid to give up the good to go for the great. RabbitMQ Backend
