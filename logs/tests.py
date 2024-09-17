@@ -8,3 +8,4 @@ Big Data Container Orchestration Difficult roads often lead to beautiful destina
 Security Monitoring WebSockets Replica Set Pull Request
 Scalability Performance Difficult roads often lead to beautiful destinations. Frontend Content Delivery Network Zero Downtime Deployment Kafka
 Logging Server Response Security Success is how high you bounce when you hit bottom. Machine Learning Containerization To be the best, you must be able to handle the worst. Do what you love and the money will follow. Dream big and dare to fail. OAuth Data Pipeline Testing Firewalls
+If you can dream it, you can do it. API Deployment Do what you love and the money will follow. Optimization Quantum Computing Parallel Processing Event-driven Architecture
