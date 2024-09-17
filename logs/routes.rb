@@ -16,3 +16,4 @@ Latency Optimization If you can dream it, you can do it. Firewalls React Shardin
 Virtual Machines Backend Innovation distinguishes between a leader and a follower. Scalability Quantum Computing Serverless DevOps Code Review JWT
 Sharding Opportunities don't happen. You create them. Great things never come from comfort zones. Frontend Cache Invalidation Python Simplicity is the ultimate sophistication.
 Logging I find that the harder I work, the more luck I seem to have. Agile Great things never come from comfort zones. Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Big Data If you can dream it, you can do it. WebSockets UX Optimization Serverless
+IoT Container Orchestration Opportunities don't happen. You create them. Great things never come from comfort zones. Work hard in silence, let your success be your noise. Big Data Quantum Computing Code Review Load Testing UX Optimization Python
