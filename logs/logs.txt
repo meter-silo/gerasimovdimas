@@ -15,3 +15,4 @@ Distributed Systems Machine Learning Neural Networks Stay hungry, stay foolish. 
 Backend API Gateway WebSockets Logging Big Data Database Indexing Lambda Functions GraphQL Success doesn’t just find you. You have to go out and get it. Monitoring Deployment Innovation distinguishes between a leader and a follower. Multi-threading Kafka Message Queue
 DNS Routing Cache Invalidation Firewalls Data Pipeline Agile GraphQL Kubernetes Python
 Firewalls Version Control Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. GraphQL Cache Invalidation NLP Testing
+Backend Big Data Innovation distinguishes between a leader and a follower. NLP Serverless Artificial Intelligence Container Orchestration DNS Routing Kubernetes Monitoring API Gateway JavaScript
