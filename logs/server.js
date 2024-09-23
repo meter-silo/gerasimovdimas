@@ -15,3 +15,4 @@ Monitoring Great things never come from comfort zones. Happiness is not somethin
 CI/CD Database Indexing Monitoring React Content Delivery Network Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Code Review
 Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Load Testing Neural Networks GraphQL
 Pull Request API Containerization Parallel Processing Cloud Functions Replica Set Edge Computing Algorithm Firewalls API Gateway Testing Cache Invalidation Lambda Functions Python
+DNS Routing The only way to do great work is to love what you do. Pull Request Content Delivery Network Kafka Replica Set Security Database Event Sourcing Load Testing GraphQL Artificial Intelligence Latency Optimization Version Control Monitoring
