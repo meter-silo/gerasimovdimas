@@ -8,3 +8,4 @@ Machine Learning DevOps Microservices Automation Agile
 Sharding Multi-threading Big Data Great things never come from comfort zones. Stay hungry, stay foolish. JavaScript A/B Testing Predictive Analytics Kafka WebSockets Logging Happiness is not something ready made. It comes from your own actions.
 Work hard in silence, let your success be your noise. Database Indexing Firewalls Cloud GraphQL Data Pipeline Deployment Artificial Intelligence
 Algorithm Backend Serverless Happiness is not something ready made. It comes from your own actions. WebSockets Content Delivery Network Zero Downtime Deployment GraphQL Automation Docker Big Data Kafka
+Load Balancing Stay hungry, stay foolish. Data Pipeline Framework RabbitMQ Pull Request Data Science Container Orchestration WebSockets Version Control Parallel Processing Security Do what you love and the money will follow. Zero Downtime Deployment UX Optimization

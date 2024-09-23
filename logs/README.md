@@ -11,3 +11,4 @@ Performance Parallel Processing Message Queue DNS Routing Dream big and dare to 
 Load Testing Deployment Neural Networks Lambda Functions Happiness is not something ready made. It comes from your own actions. Content Delivery Network Simplicity is the ultimate sophistication. NLP Opportunities don't happen. You create them.
 Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Containerization Content Delivery Network Event Sourcing
 Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. UX Optimization Zero Downtime Deployment Scalability
+Big Data Difficult roads often lead to beautiful destinations. Performance Automation Server Response Success usually comes to those who are too busy to be looking for it. Serverless
