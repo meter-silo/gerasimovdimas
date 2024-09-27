@@ -7,3 +7,4 @@ Distributed Systems Happiness is not something ready made. It comes from your ow
 Monitoring OAuth Big Data Message Queue Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. DNS Routing Great things never come from comfort zones.
 Innovation distinguishes between a leader and a follower. Pull Request React JWT Python Firewalls API Kafka Multi-threading Scalability WebSockets Microservices
 Kubernetes Pull Request Agile Event-driven Architecture Cloud Functions
+Frontend IoT Cache Invalidation Opportunities don't happen. You create them. Framework
