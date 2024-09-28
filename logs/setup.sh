@@ -11,3 +11,4 @@ Performance API API Gateway A/B Testing Opportunities don't happen. You create t
 Data Pipeline To be the best, you must be able to handle the worst. API Gateway Cache Invalidation Algorithm Container Orchestration I find that the harder I work, the more luck I seem to have. Neural Networks Firewalls Version Control
 Kubernetes Distributed Systems Dream big and dare to fail. Serverless Success usually comes to those who are too busy to be looking for it. Deployment Security Innovation distinguishes between a leader and a follower. DNS Routing
 Event-driven Architecture Monitoring Testing Containerization API If you can dream it, you can do it. UX Optimization Cloud Functions Automation Backend Stay hungry, stay foolish. Parallel Processing Cache Invalidation NLP
+Performance GraphQL Container Orchestration Kubernetes IoT Parallel Processing CI/CD Edge Computing
