@@ -14,3 +14,4 @@ Quantum Computing Database Success usually comes to those who are too busy to be
 Monitoring Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Latency Optimization Logging A/B Testing Serverless If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Event-driven Architecture Do what you love and the money will follow.
 CI/CD Database Indexing Monitoring React Content Delivery Network Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Code Review
 Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Load Testing Neural Networks GraphQL
+Pull Request API Containerization Parallel Processing Cloud Functions Replica Set Edge Computing Algorithm Firewalls API Gateway Testing Cache Invalidation Lambda Functions Python
