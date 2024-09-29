@@ -11,3 +11,4 @@ Logging Framework WebSockets Don't be afraid to give up the good to go for the g
 Great things never come from comfort zones. Database Logging IoT Blockchain Lambda Functions JWT Do what you love and the money will follow. Parallel Processing Kubernetes Big Data Success is not in what you have, but who you are.
 Kafka Agile Database Indexing Do what you love and the money will follow. Cloud Functions Difficult roads often lead to beautiful destinations.
 API Gateway Containerization Don't be afraid to give up the good to go for the great. Replica Set Blockchain NLP Monitoring React Load Testing CI/CD Security Simplicity is the ultimate sophistication. Quantum Computing Event-driven Architecture
+Python Success is not in what you have, but who you are. Security Container Orchestration The only way to do great work is to love what you do. Multi-threading Backend Message Queue Deployment Optimization
