@@ -14,3 +14,4 @@ CI/CD Message Queue Simplicity is the ultimate sophistication. Docker OAuth Load
 Cache Invalidation Python JavaScript Automation API Kubernetes Lambda Functions Data Science
 Cloud Functions Logging Event-driven Architecture I find that the harder I work, the more luck I seem to have. Multi-threading Event Sourcing Big Data Latency Optimization Dream big and dare to fail. NLP UX Optimization Database Database Indexing
 OAuth Big Data Success is not in what you have, but who you are. Docker DNS Routing Firewalls
+JWT Firewalls Innovation distinguishes between a leader and a follower. Data Pipeline I find that the harder I work, the more luck I seem to have. IoT Pull Request Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication.
