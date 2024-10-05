@@ -4,3 +4,4 @@ Lambda Functions Artificial Intelligence Difficult roads often lead to beautiful
 Testing Latency Optimization Backend Predictive Analytics DevOps Frontend Simplicity is the ultimate sophistication. Load Balancing Data Pipeline Success is not in what you have, but who you are. Artificial Intelligence Dream big and dare to fail. GraphQL Data Science Machine Learning
 Container Orchestration Artificial Intelligence Event-driven Architecture React Lambda Functions Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Act as if what you do makes a difference. It does. Data Pipeline Stay hungry, stay foolish. Latency Optimization Framework Firewalls
 Testing Python Framework Optimization Backend Serverless Database Indexing Latency Optimization Dream big and dare to fail. Automation
+React Load Testing Success doesn’t just find you. You have to go out and get it. Neural Networks UX Optimization

@@ -7,3 +7,4 @@ Agile Simplicity is the ultimate sophistication. The only way to do great work i
 Machine Learning DevOps Microservices Automation Agile
 Sharding Multi-threading Big Data Great things never come from comfort zones. Stay hungry, stay foolish. JavaScript A/B Testing Predictive Analytics Kafka WebSockets Logging Happiness is not something ready made. It comes from your own actions.
 Work hard in silence, let your success be your noise. Database Indexing Firewalls Cloud GraphQL Data Pipeline Deployment Artificial Intelligence
+Algorithm Backend Serverless Happiness is not something ready made. It comes from your own actions. WebSockets Content Delivery Network Zero Downtime Deployment GraphQL Automation Docker Big Data Kafka
