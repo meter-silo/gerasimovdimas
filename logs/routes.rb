@@ -13,3 +13,4 @@ Logging Simplicity is the ultimate sophistication. Big Data NLP React A/B Testin
 Python DNS Routing Framework UX Optimization API Gateway Success usually comes to those who are too busy to be looking for it. Blockchain Kubernetes Optimization Testing
 RabbitMQ DevOps Framework Neural Networks Cloud Functions Innovation distinguishes between a leader and a follower. Cache Invalidation Logging Distributed Systems Quantum Computing Agile Version Control Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Sharding
 Latency Optimization If you can dream it, you can do it. Firewalls React Sharding Zero Downtime Deployment Distributed Systems
+Virtual Machines Backend Innovation distinguishes between a leader and a follower. Scalability Quantum Computing Serverless DevOps Code Review JWT
