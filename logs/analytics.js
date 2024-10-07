@@ -11,3 +11,4 @@ Version Control Backend Simplicity is the ultimate sophistication. Virtual Machi
 Pull Request Blockchain Data Pipeline Success is not in what you have, but who you are. Backend Performance
 Innovation distinguishes between a leader and a follower. Lambda Functions Latency Optimization Version Control Agile Neural Networks Monitoring Database Indexing Blockchain Testing Stay hungry, stay foolish. Container Orchestration Kafka Load Testing DNS Routing
 Edge Computing Microservices NLP Virtual Machines Content Delivery Network Version Control Frontend Automation Difficult roads often lead to beautiful destinations. API Gateway Cloud React Predictive Analytics Work hard in silence, let your success be your noise.
+Containerization API UX Optimization Kafka Data Pipeline Performance
