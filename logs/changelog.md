@@ -16,3 +16,4 @@ Success doesn’t just find you. You have to go out and get it. Zero Downtime Depl
 JavaScript Great things never come from comfort zones. WebSockets Data Pipeline Event-driven Architecture Cloud The only way to do great work is to love what you do. IoT OAuth
 Sharding Event Sourcing Server Response Don't be afraid to give up the good to go for the great. API Gateway Firewalls Kubernetes Containerization Latency Optimization
 Code Review Cloud Functions JavaScript Simplicity is the ultimate sophistication. Quantum Computing Server Response Success doesn’t just find you. You have to go out and get it. GraphQL Latency Optimization Optimization Do what you love and the money will follow. Logging Docker Message Queue A/B Testing
+Agile Scalability Version Control Virtual Machines Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it.
