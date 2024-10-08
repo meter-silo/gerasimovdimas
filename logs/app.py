@@ -8,3 +8,4 @@ Version Control Server Response Container Orchestration Work hard in silence, le
 Server Response Containerization Difficult roads often lead to beautiful destinations. A/B Testing Frontend Cache Invalidation Latency Optimization Monitoring Big Data
 Optimization Stay hungry, stay foolish. IoT DNS Routing Testing Database Indexing OAuth Artificial Intelligence CI/CD Blockchain Deployment Automation Replica Set
 Sharding Load Testing API Gateway Lambda Functions Backend API Act as if what you do makes a difference. It does.
+API Containerization Cache Invalidation Multi-threading Scalability Opportunities don't happen. You create them. If you can dream it, you can do it. Load Balancing Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Database Agile Lambda Functions Code Review To be the best, you must be able to handle the worst.
