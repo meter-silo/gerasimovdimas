@@ -14,3 +14,4 @@ Monitoring DNS Routing Multi-threading Scalability Stay hungry, stay foolish. Fi
 Distributed Systems Machine Learning Neural Networks Stay hungry, stay foolish. Great things never come from comfort zones. Innovation distinguishes between a leader and a follower.
 Backend API Gateway WebSockets Logging Big Data Database Indexing Lambda Functions GraphQL Success doesn’t just find you. You have to go out and get it. Monitoring Deployment Innovation distinguishes between a leader and a follower. Multi-threading Kafka Message Queue
 DNS Routing Cache Invalidation Firewalls Data Pipeline Agile GraphQL Kubernetes Python
+Firewalls Version Control Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. GraphQL Cache Invalidation NLP Testing

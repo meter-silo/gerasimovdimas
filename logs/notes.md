@@ -13,3 +13,4 @@ RabbitMQ Cache Invalidation Act as if what you do makes a difference. It does. G
 CI/CD Message Queue Simplicity is the ultimate sophistication. Docker OAuth Load Testing Pull Request Cache Invalidation Artificial Intelligence I find that the harder I work, the more luck I seem to have. Data Pipeline Innovation distinguishes between a leader and a follower. Load Balancing Distributed Systems
 Cache Invalidation Python JavaScript Automation API Kubernetes Lambda Functions Data Science
 Cloud Functions Logging Event-driven Architecture I find that the harder I work, the more luck I seem to have. Multi-threading Event Sourcing Big Data Latency Optimization Dream big and dare to fail. NLP UX Optimization Database Database Indexing
+OAuth Big Data Success is not in what you have, but who you are. Docker DNS Routing Firewalls
