@@ -11,3 +11,4 @@ Success is not in what you have, but who you are. Don't be afraid to give up the
 Replica Set Cloud Success is how high you bounce when you hit bottom. Server Response Agile WebSockets Machine Learning Container Orchestration Load Testing API Kubernetes Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. DNS Routing Monitoring
 Logging Simplicity is the ultimate sophistication. Big Data NLP React A/B Testing
 Python DNS Routing Framework UX Optimization API Gateway Success usually comes to those who are too busy to be looking for it. Blockchain Kubernetes Optimization Testing
+RabbitMQ DevOps Framework Neural Networks Cloud Functions Innovation distinguishes between a leader and a follower. Cache Invalidation Logging Distributed Systems Quantum Computing Agile Version Control Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Sharding
