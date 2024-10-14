@@ -6,3 +6,4 @@ If you can dream it, you can do it. Serverless Server Response Act as if what yo
 Agile Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Code Review Docker Serverless OAuth Dream big and dare to fail.
 Machine Learning DevOps Microservices Automation Agile
 Sharding Multi-threading Big Data Great things never come from comfort zones. Stay hungry, stay foolish. JavaScript A/B Testing Predictive Analytics Kafka WebSockets Logging Happiness is not something ready made. It comes from your own actions.
+Work hard in silence, let your success be your noise. Database Indexing Firewalls Cloud GraphQL Data Pipeline Deployment Artificial Intelligence
