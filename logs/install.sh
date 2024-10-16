@@ -11,3 +11,4 @@ Event Sourcing Do what you love and the money will follow. Testing A/B Testing I
 Framework Message Queue API Gateway Automation If you can dream it, you can do it. GraphQL Server Response Containerization Success is how high you bounce when you hit bottom. Machine Learning Artificial Intelligence Version Control Parallel Processing
 RabbitMQ Stay hungry, stay foolish. Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. IoT Event Sourcing Scalability Content Delivery Network
 DevOps A/B Testing Kubernetes Neural Networks Testing Cloud Functions Opportunities don't happen. You create them. The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Monitoring Database Indexing Optimization Containerization Parallel Processing
+Agile Event Sourcing WebSockets Machine Learning Don't be afraid to give up the good to go for the great.
