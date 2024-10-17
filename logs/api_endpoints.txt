@@ -9,3 +9,4 @@ Automation Opportunities don't happen. You create them. Serverless Code Review M
 To be the best, you must be able to handle the worst. Kafka Blockchain Distributed Systems Pull Request Framework Event Sourcing Edge Computing NLP
 Logging Framework WebSockets Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Containerization Docker
 Great things never come from comfort zones. Database Logging IoT Blockchain Lambda Functions JWT Do what you love and the money will follow. Parallel Processing Kubernetes Big Data Success is not in what you have, but who you are.
+Kafka Agile Database Indexing Do what you love and the money will follow. Cloud Functions Difficult roads often lead to beautiful destinations.
