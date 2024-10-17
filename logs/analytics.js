@@ -9,3 +9,4 @@ Innovation distinguishes between a leader and a follower. DNS Routing RabbitMQ D
 Blockchain Deployment React If you can dream it, you can do it. API Gateway Success doesn’t just find you. You have to go out and get it. RabbitMQ Python Predictive Analytics
 Version Control Backend Simplicity is the ultimate sophistication. Virtual Machines Cache Invalidation
 Pull Request Blockchain Data Pipeline Success is not in what you have, but who you are. Backend Performance
+Innovation distinguishes between a leader and a follower. Lambda Functions Latency Optimization Version Control Agile Neural Networks Monitoring Database Indexing Blockchain Testing Stay hungry, stay foolish. Container Orchestration Kafka Load Testing DNS Routing
