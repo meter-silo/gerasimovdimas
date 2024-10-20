@@ -10,3 +10,4 @@ DevOps UX Optimization Serverless Scalability Predictive Analytics The only way 
 Content Delivery Network JavaScript Scalability API Dream big and dare to fail. Pull Request Latency Optimization Containerization Database NLP DevOps
 Virtual Machines Backend Quantum Computing Big Data Edge Computing React Act as if what you do makes a difference. It does. Artificial Intelligence UX Optimization Docker Load Testing
 Testing Data Science Simplicity is the ultimate sophistication. Lambda Functions Dream big and dare to fail. JWT Edge Computing
+NLP Content Delivery Network Machine Learning Cloud Functions Act as if what you do makes a difference. It does. Deployment Cloud Event-driven Architecture Pull Request Latency Optimization Kafka Cache Invalidation Load Testing Artificial Intelligence Simplicity is the ultimate sophistication.
