@@ -8,3 +8,4 @@ API Gateway Opportunities don't happen. You create them. UX Optimization Pull Re
 Innovation distinguishes between a leader and a follower. DNS Routing RabbitMQ DevOps Docker If you can dream it, you can do it. Kubernetes Machine Learning Load Testing Neural Networks Cloud Functions Success is not in what you have, but who you are.
 Blockchain Deployment React If you can dream it, you can do it. API Gateway Success doesn’t just find you. You have to go out and get it. RabbitMQ Python Predictive Analytics
 Version Control Backend Simplicity is the ultimate sophistication. Virtual Machines Cache Invalidation
+Pull Request Blockchain Data Pipeline Success is not in what you have, but who you are. Backend Performance
