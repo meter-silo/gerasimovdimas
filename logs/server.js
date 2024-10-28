@@ -9,3 +9,4 @@ Success doesn’t just find you. You have to go out and get it. Cache Invalidation
 DNS Routing Difficult roads often lead to beautiful destinations. Serverless Predictive Analytics API Gateway I find that the harder I work, the more luck I seem to have. OAuth Big Data Success is how high you bounce when you hit bottom. Load Testing Algorithm
 API Gateway Security Server Response Algorithm Framework Difficult roads often lead to beautiful destinations.
 Load Balancing To be the best, you must be able to handle the worst. GraphQL Pull Request Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Database Indexing Version Control Data Science Virtual Machines Success doesn’t just find you. You have to go out and get it. Serverless Testing JWT Monitoring
+Logging React NLP Cache Invalidation Great things never come from comfort zones. RabbitMQ CI/CD Act as if what you do makes a difference. It does. UX Optimization Load Testing
