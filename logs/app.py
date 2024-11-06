@@ -5,3 +5,4 @@ To be the best, you must be able to handle the worst. Replica Set Act as if what
 Containerization Predictive Analytics RabbitMQ Do what you love and the money will follow. React Opportunities don't happen. You create them. Version Control Agile Neural Networks
 Replica Set API Cloud Algorithm Server Response
 Version Control Server Response Container Orchestration Work hard in silence, let your success be your noise. Parallel Processing Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Sharding Containerization Automation
+Server Response Containerization Difficult roads often lead to beautiful destinations. A/B Testing Frontend Cache Invalidation Latency Optimization Monitoring Big Data

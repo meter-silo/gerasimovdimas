@@ -8,3 +8,4 @@ If you can dream it, you can do it. Big Data Firewalls Algorithm Kubernetes
 Server Response Blockchain Pull Request Security Neural Networks JavaScript Innovation distinguishes between a leader and a follower. React CI/CD Logging Kubernetes GraphQL API Latency Optimization Content Delivery Network
 DevOps UX Optimization Serverless Scalability Predictive Analytics The only way to do great work is to love what you do. If you can dream it, you can do it. Container Orchestration Multi-threading Blockchain Server Response
 Content Delivery Network JavaScript Scalability API Dream big and dare to fail. Pull Request Latency Optimization Containerization Database NLP DevOps
+Virtual Machines Backend Quantum Computing Big Data Edge Computing React Act as if what you do makes a difference. It does. Artificial Intelligence UX Optimization Docker Load Testing
