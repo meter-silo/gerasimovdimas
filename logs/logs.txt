@@ -12,3 +12,4 @@ Parallel Processing Big Data Neural Networks Algorithm Version Control IoT Laten
 Success doesn’t just find you. You have to go out and get it. Python Backend Big Data DNS Routing Success is how high you bounce when you hit bottom. Logging Replica Set A/B Testing If you can dream it, you can do it. DevOps
 Monitoring DNS Routing Multi-threading Scalability Stay hungry, stay foolish. Firewalls Docker Container Orchestration Distributed Systems Latency Optimization Backend Sharding CI/CD Predictive Analytics
 Distributed Systems Machine Learning Neural Networks Stay hungry, stay foolish. Great things never come from comfort zones. Innovation distinguishes between a leader and a follower.
+Backend API Gateway WebSockets Logging Big Data Database Indexing Lambda Functions GraphQL Success doesn’t just find you. You have to go out and get it. Monitoring Deployment Innovation distinguishes between a leader and a follower. Multi-threading Kafka Message Queue
