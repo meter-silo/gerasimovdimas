@@ -10,3 +10,4 @@ React Quantum Computing Python To be the best, you must be able to handle the wo
 Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. IoT React Data Pipeline Lambda Functions
 Replica Set Cloud Success is how high you bounce when you hit bottom. Server Response Agile WebSockets Machine Learning Container Orchestration Load Testing API Kubernetes Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. DNS Routing Monitoring
 Logging Simplicity is the ultimate sophistication. Big Data NLP React A/B Testing
+Python DNS Routing Framework UX Optimization API Gateway Success usually comes to those who are too busy to be looking for it. Blockchain Kubernetes Optimization Testing
