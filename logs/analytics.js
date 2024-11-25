@@ -5,3 +5,4 @@ Data Science Agile IoT Kubernetes Database Indexing Work hard in silence, let yo
 API Great things never come from comfort zones. OAuth Virtual Machines WebSockets Algorithm
 WebSockets Stay hungry, stay foolish. Security Multi-threading Success usually comes to those who are too busy to be looking for it. Database A/B Testing OAuth Python API Distributed Systems Agile Do what you love and the money will follow.
 API Gateway Opportunities don't happen. You create them. UX Optimization Pull Request Optimization Don't be afraid to give up the good to go for the great. Code Review Logging Sharding Success doesn’t just find you. You have to go out and get it. Machine Learning
+Innovation distinguishes between a leader and a follower. DNS Routing RabbitMQ DevOps Docker If you can dream it, you can do it. Kubernetes Machine Learning Load Testing Neural Networks Cloud Functions Success is not in what you have, but who you are.
