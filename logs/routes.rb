@@ -9,3 +9,4 @@ Database Indexing Version Control Cloud Opportunities don't happen. You create t
 React Quantum Computing Python To be the best, you must be able to handle the worst. Great things never come from comfort zones. Cloud Functions API Gateway Backend Monitoring
 Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. IoT React Data Pipeline Lambda Functions
 Replica Set Cloud Success is how high you bounce when you hit bottom. Server Response Agile WebSockets Machine Learning Container Orchestration Load Testing API Kubernetes Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. DNS Routing Monitoring
+Logging Simplicity is the ultimate sophistication. Big Data NLP React A/B Testing
