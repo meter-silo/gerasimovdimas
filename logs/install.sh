@@ -9,3 +9,4 @@ Framework Great things never come from comfort zones. Algorithm Microservices We
 Pull Request Neural Networks Kubernetes Stay hungry, stay foolish. Docker Great things never come from comfort zones.
 Event Sourcing Do what you love and the money will follow. Testing A/B Testing IoT Cloud Big Data Optimization Replica Set Success is not in what you have, but who you are. Firewalls
 Framework Message Queue API Gateway Automation If you can dream it, you can do it. GraphQL Server Response Containerization Success is how high you bounce when you hit bottom. Machine Learning Artificial Intelligence Version Control Parallel Processing
+RabbitMQ Stay hungry, stay foolish. Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. IoT Event Sourcing Scalability Content Delivery Network
