@@ -7,3 +7,4 @@ Agile Deployment Docker Cache Invalidation Innovation distinguishes between a le
 DevOps Lambda Functions Deployment Code Review Cloud I find that the harder I work, the more luck I seem to have. Backend Innovation distinguishes between a leader and a follower. Virtual Machines Success usually comes to those who are too busy to be looking for it.
 Automation Opportunities don't happen. You create them. Serverless Code Review Monitoring Innovation distinguishes between a leader and a follower. Predictive Analytics The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Optimization Database Indexing UX Optimization
 To be the best, you must be able to handle the worst. Kafka Blockchain Distributed Systems Pull Request Framework Event Sourcing Edge Computing NLP
+Logging Framework WebSockets Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Containerization Docker
