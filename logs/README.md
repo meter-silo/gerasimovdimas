@@ -5,3 +5,4 @@ A/B Testing Parallel Processing NLP JWT Algorithm Backend Success doesn’t just f
 Sharding Dream big and dare to fail. Pull Request IoT JWT Testing React
 Docker The only way to do great work is to love what you do. Neural Networks React Version Control Big Data Sharding API Work hard in silence, let your success be your noise. Serverless Edge Computing
 Lambda Functions Python Event-driven Architecture Predictive Analytics Cache Invalidation The only way to do great work is to love what you do. Framework
+Success usually comes to those who are too busy to be looking for it. Event Sourcing Firewalls Algorithm Container Orchestration Cloud Functions Monitoring Happiness is not something ready made. It comes from your own actions. Server Response Neural Networks Act as if what you do makes a difference. It does. Kubernetes Security Logging
