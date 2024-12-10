@@ -6,3 +6,4 @@ Simplicity is the ultimate sophistication. Data Science CI/CD UX Optimization Da
 Success usually comes to those who are too busy to be looking for it. Latency Optimization Framework Act as if what you do makes a difference. It does. WebSockets
 Automation Containerization Event-driven Architecture Opportunities don't happen. You create them. Scalability Machine Learning API Work hard in silence, let your success be your noise. Replica Set I find that the harder I work, the more luck I seem to have.
 JavaScript Docker OAuth DevOps Frontend
+IoT Serverless Server Response Work hard in silence, let your success be your noise. Event-driven Architecture Sharding I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Cloud Innovation distinguishes between a leader and a follower. Artificial Intelligence Load Testing GraphQL Zero Downtime Deployment Testing
