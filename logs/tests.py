@@ -4,3 +4,4 @@ The only way to do great work is to love what you do. JWT JavaScript Data Pipeli
 Automation Data Pipeline Opportunities don't happen. You create them. Kubernetes Logging Dream big and dare to fail. Virtual Machines Docker JWT
 API Gateway Message Queue Performance Containerization Database
 Quantum Computing OAuth Innovation distinguishes between a leader and a follower. Multi-threading Deployment Server Response Event-driven Architecture Opportunities don't happen. You create them. Replica Set Kafka Lambda Functions Optimization Logging Load Testing Sharding
+Big Data Container Orchestration Difficult roads often lead to beautiful destinations. NLP CI/CD
