@@ -7,3 +7,4 @@ Parallel Processing React Database API To be the best, you must be able to handl
 NLP Great things never come from comfort zones. Framework RabbitMQ Server Response JWT Neural Networks Difficult roads often lead to beautiful destinations. Backend API Docker
 Database Indexing Version Control Cloud Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Quantum Computing DevOps
 React Quantum Computing Python To be the best, you must be able to handle the worst. Great things never come from comfort zones. Cloud Functions API Gateway Backend Monitoring
+Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. IoT React Data Pipeline Lambda Functions
