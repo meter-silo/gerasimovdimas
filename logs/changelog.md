@@ -7,3 +7,4 @@ Lambda Functions Code Review Content Delivery Network Microservices Difficult ro
 Load Testing Python A/B Testing Agile DevOps Dream big and dare to fail. OAuth Lambda Functions Parallel Processing Containerization Replica Set JWT Testing
 Deployment JavaScript Content Delivery Network Python Big Data
 Content Delivery Network Do what you love and the money will follow. Microservices Quantum Computing Deployment CI/CD Docker Event Sourcing Zero Downtime Deployment
+Server Response Containerization Cache Invalidation Framework Neural Networks Firewalls Code Review Difficult roads often lead to beautiful destinations. Event Sourcing Don't be afraid to give up the good to go for the great. A/B Testing Big Data To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication.
