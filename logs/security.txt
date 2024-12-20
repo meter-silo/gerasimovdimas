@@ -9,3 +9,4 @@ Firewalls Code Review OAuth Quantum Computing Backend Success doesn’t just find 
 Simplicity is the ultimate sophistication. Deployment JWT Cloud Microservices CI/CD Data Science Cloud Functions Database Indexing Database Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Edge Computing Server Response
 API Gateway Data Science OAuth Simplicity is the ultimate sophistication. Blockchain NLP Containerization Load Testing
 UX Optimization Great things never come from comfort zones. Monitoring Stay hungry, stay foolish. Deployment
+Microservices Backend Database Indexing Dream big and dare to fail. Load Balancing Serverless
