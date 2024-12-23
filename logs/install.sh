@@ -7,3 +7,4 @@ Blockchain A/B Testing Python Sharding Cloud Quantum Computing Content Delivery 
 Success is not in what you have, but who you are. Agile Event-driven Architecture API Algorithm Edge Computing Docker Lambda Functions Sharding
 Framework Great things never come from comfort zones. Algorithm Microservices WebSockets Version Control Parallel Processing Sharding Event Sourcing API IoT
 Pull Request Neural Networks Kubernetes Stay hungry, stay foolish. Docker Great things never come from comfort zones.
+Event Sourcing Do what you love and the money will follow. Testing A/B Testing IoT Cloud Big Data Optimization Replica Set Success is not in what you have, but who you are. Firewalls
