@@ -6,3 +6,4 @@ Distributed Systems Difficult roads often lead to beautiful destinations. Securi
 Parallel Processing React Database API To be the best, you must be able to handle the worst. DNS Routing Content Delivery Network The only way to do great work is to love what you do. Backend Quantum Computing Blockchain Success usually comes to those who are too busy to be looking for it. Cloud Functions Neural Networks Multi-threading
 NLP Great things never come from comfort zones. Framework RabbitMQ Server Response JWT Neural Networks Difficult roads often lead to beautiful destinations. Backend API Docker
 Database Indexing Version Control Cloud Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Quantum Computing DevOps
+React Quantum Computing Python To be the best, you must be able to handle the worst. Great things never come from comfort zones. Cloud Functions API Gateway Backend Monitoring
