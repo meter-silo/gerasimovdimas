@@ -8,3 +8,4 @@ JavaScript Success is how high you bounce when you hit bottom. Agile Data Scienc
 Firewalls Code Review OAuth Quantum Computing Backend Success doesn’t just find you. You have to go out and get it. Deployment Framework Great things never come from comfort zones.
 Simplicity is the ultimate sophistication. Deployment JWT Cloud Microservices CI/CD Data Science Cloud Functions Database Indexing Database Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Edge Computing Server Response
 API Gateway Data Science OAuth Simplicity is the ultimate sophistication. Blockchain NLP Containerization Load Testing
+UX Optimization Great things never come from comfort zones. Monitoring Stay hungry, stay foolish. Deployment
