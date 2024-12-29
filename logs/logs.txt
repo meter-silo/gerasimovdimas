@@ -5,3 +5,4 @@ Testing Lambda Functions Content Delivery Network Version Control Act as if what
 Innovation distinguishes between a leader and a follower. JWT A/B Testing Multi-threading Database Indexing Deployment API Lambda Functions Pull Request
 Server Response API Message Queue DNS Routing The only way to do great work is to love what you do. React If you can dream it, you can do it. Quantum Computing
 Firewalls NLP Edge Computing Cloud RabbitMQ Testing
+Frontend Cloud API Cache Invalidation Agile RabbitMQ Simplicity is the ultimate sophistication. API Gateway Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Load Testing Containerization Cloud Functions Deployment Distributed Systems
