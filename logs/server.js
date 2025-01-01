@@ -2,3 +2,4 @@ Don't be afraid to give up the good to go for the great. Lambda Functions If you
 Blockchain Artificial Intelligence Container Orchestration Data Pipeline Latency Optimization NLP IoT Great things never come from comfort zones. Firewalls
 Multi-threading UX Optimization Success doesn’t just find you. You have to go out and get it. Deployment DNS Routing Distributed Systems Logging
 Testing Monitoring Stay hungry, stay foolish. GraphQL Security Python Performance Serverless Agile WebSockets CI/CD IoT Distributed Systems Success is not in what you have, but who you are. Framework
+Deployment Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Artificial Intelligence Happiness is not something ready made. It comes from your own actions. JavaScript A/B Testing Virtual Machines Backend Kafka The only way to do great work is to love what you do. Lambda Functions Data Pipeline
