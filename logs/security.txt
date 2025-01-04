@@ -3,3 +3,4 @@ CI/CD Distributed Systems Dream big and dare to fail. Artificial Intelligence Do
 Success usually comes to those who are too busy to be looking for it. Testing Machine Learning Sharding RabbitMQ Artificial Intelligence
 Database Indexing Logging Message Queue Version Control Great things never come from comfort zones.
 Event-driven Architecture Code Review Success usually comes to those who are too busy to be looking for it. JWT Big Data Opportunities don't happen. You create them. Containerization WebSockets Logging Happiness is not something ready made. It comes from your own actions.
+Testing JWT Containerization Optimization Great things never come from comfort zones. Stay hungry, stay foolish. Database Indexing Blockchain Agile Machine Learning Firewalls Python Load Testing Data Science Don't be afraid to give up the good to go for the great.
