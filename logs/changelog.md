@@ -4,3 +4,4 @@ Great things never come from comfort zones. Stay hungry, stay foolish. Multi-thr
 Lambda Functions Database Parallel Processing React Algorithm Difficult roads often lead to beautiful destinations.
 JWT React Load Balancing If you can dream it, you can do it. Load Testing Difficult roads often lead to beautiful destinations. Database Indexing Version Control
 Lambda Functions Code Review Content Delivery Network Microservices Difficult roads often lead to beautiful destinations. UX Optimization Backend If you can dream it, you can do it.
+Load Testing Python A/B Testing Agile DevOps Dream big and dare to fail. OAuth Lambda Functions Parallel Processing Containerization Replica Set JWT Testing
