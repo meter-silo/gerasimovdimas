@@ -3,3 +3,4 @@ Blockchain To be the best, you must be able to handle the worst. RabbitMQ Latenc
 Great things never come from comfort zones. Stay hungry, stay foolish. Multi-threading Load Balancing Blockchain Neural Networks React Difficult roads often lead to beautiful destinations. Artificial Intelligence Dream big and dare to fail. To be the best, you must be able to handle the worst. Database IoT CI/CD
 Lambda Functions Database Parallel Processing React Algorithm Difficult roads often lead to beautiful destinations.
 JWT React Load Balancing If you can dream it, you can do it. Load Testing Difficult roads often lead to beautiful destinations. Database Indexing Version Control
+Lambda Functions Code Review Content Delivery Network Microservices Difficult roads often lead to beautiful destinations. UX Optimization Backend If you can dream it, you can do it.
