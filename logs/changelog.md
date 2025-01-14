@@ -2,3 +2,4 @@ Virtual Machines Backend API Gateway NLP Success is not in what you have, but wh
 Blockchain To be the best, you must be able to handle the worst. RabbitMQ Latency Optimization Framework Cache Invalidation Event Sourcing Success usually comes to those who are too busy to be looking for it. Neural Networks
 Great things never come from comfort zones. Stay hungry, stay foolish. Multi-threading Load Balancing Blockchain Neural Networks React Difficult roads often lead to beautiful destinations. Artificial Intelligence Dream big and dare to fail. To be the best, you must be able to handle the worst. Database IoT CI/CD
 Lambda Functions Database Parallel Processing React Algorithm Difficult roads often lead to beautiful destinations.
+JWT React Load Balancing If you can dream it, you can do it. Load Testing Difficult roads often lead to beautiful destinations. Database Indexing Version Control
