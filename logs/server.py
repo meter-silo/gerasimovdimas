@@ -1,1 +1,2 @@
 WebSockets Database Indexing Performance Latency Optimization Version Control Virtual Machines Data Pipeline Deployment Cache Invalidation Zero Downtime Deployment Lambda Functions Server Response Act as if what you do makes a difference. It does. Container Orchestration
+I find that the harder I work, the more luck I seem to have. Event-driven Architecture Firewalls Lambda Functions Success is how high you bounce when you hit bottom. Content Delivery Network DevOps Performance Frontend Framework
